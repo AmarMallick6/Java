@@ -28,6 +28,11 @@ public class Strings {
     System.out.println(y.equalsIgnoreCase(z));  //Equalignorecase Method
     System.out.println(y.equals(z));        //Equals  Method
     
+    for(int i=z.length()-1;i>=0;i--)     //Reversing a Strting 
+        {
+    	System.out.println(z.charAt(i));
+    	}
+    
     
 	}
 
