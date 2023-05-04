@@ -6,6 +6,7 @@ public class SwapNumbers {
 		int a=10;
 		int b=20;
 		System.out.println("Before swap "+"Value of a="+a +" & Value of b="+b);
+		
 	//Method(1)- Use 3rd Variable .........
   /*  	int temp=a;
 		a=b;
